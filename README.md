@@ -1,5 +1,14 @@
 # 📊 Dashboard de Varejo
 
+## 📸 Exemplo do Dashboard
+
+![Página Inicial](img/pagina-inicial.png)
+
+![Análise de Vendas](img/analise-vendas.png)
+
+> Mais imagens disponíveis na pasta [img/](img/)
+
+
 Este projeto apresenta um **Dashboard de Análise de Vendas no Varejo** desenvolvido no **Power BI**, com foco em **produtos, clientes e desempenho de vendas**.
 
 ---
